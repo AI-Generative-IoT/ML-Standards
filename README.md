@@ -1,5 +1,7 @@
 📊 ML-Standards — Overview  
+
 🔬 ML-Standards is a practical machine learning project demonstrating standard data mining techniques using well-known Scikit-learn datasets: DIGITS, DIABETES, and IRIS.  
+
 🚀 The project provides ready-to-run Python examples that illustrate core machine learning workflows across Linux, macOS, and Windows platforms.  
 
 ⚙️ Installation & Usage  
