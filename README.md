@@ -8,18 +8,23 @@
 
 
 🐧🍎 Linux & macOS:  
+
 Clone the repository and run the Python files  
 
 👉 git clone https://github.com/alexej-schelle/ML-Standards/  
 
 
 🪟 Windows:  
+
 Download the files directly from GitHub and start the Python scripts  
+
 👉 https://github.com/alexej-schelle/ML-Standards/  
 
 
 📖 Documentation (All OS):  
+
 Clone the repository and read  
+
 👉 docs/README.txt  
 🧠 Documented Machine Learning Scenarios  
 📐 Data structure visualization  
@@ -30,7 +35,6 @@ Clone the repository and read
 🔥 Heatmaps and confusion matrices  
 📈 Linear regression  
 🧩 Principal Component Analysis (PCA)  
-
 
 👨‍🏫 Author  
 🎓 Univ.-Doz. Dr. Alexej Schelle  
