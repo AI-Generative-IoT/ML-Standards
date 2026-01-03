@@ -39,4 +39,4 @@ Clone the repository and read
 👨‍🏫 Author  
 🎓 Univ.-Doz. Dr. Alexej Schelle  
 
-✨ A compact, educational reference for understanding and applying classic machine learning techniques with Python.  
+✨ A compact, educational reference for understanding and applying classic machine learning techniques with Python.
